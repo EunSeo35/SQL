@@ -1,0 +1,3 @@
+*.sql linguist-detectable=true
+hackerrank/** linguist-documentation=false
+hackerrank/** linguist-vendored=false
